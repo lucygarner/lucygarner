@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucygarner
-- 👀 I’m interested in all things R and single cell genomics
+- 👀 I’m interested in all things R, single cell genomics, and T cells
 - 🌱 When I have time, I would like to write my first R package
 - 📫 You can reach me on Twitter @TheLucyGarner
 
